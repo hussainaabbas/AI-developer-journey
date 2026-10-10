@@ -1,0 +1,6 @@
+name = input("What is your name:")
+print("Hello,", name)
+name = name.strip().title()
+language = input("What's your favorite language:")
+print("Your favourite language is",language)
+language = language.strip().title()
